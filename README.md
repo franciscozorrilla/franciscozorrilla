@@ -3,7 +3,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40metagenomez-lightblue)](https://twitter.com/metagenomez)
 [![email](https://img.shields.io/badge/email-fz274%40cam.ac.uk-%23a6bddb)](fz274@cam.ac.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fzorrilla94-blue)](https://www.linkedin.com/in/fzorrilla94/)
-[![](https://komarev.com/ghpvc/?username=franciscozorrilla)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ### 💎 Francisco Zorrilla
 
