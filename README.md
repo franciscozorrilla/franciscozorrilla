@@ -4,8 +4,6 @@
 [![email](https://img.shields.io/badge/email-fz274%40cam.ac.uk-%23a6bddb)](fz274@cam.ac.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fzorrilla94-blue)](https://www.linkedin.com/in/fzorrilla94/)
 
-### 💎 Francisco Zorrilla
-
 Biological engineer-turned computational biologist researching microbial community metabolism in [Kiran Patil's group](https://www.mrc-tox.cam.ac.uk/research/research-groups/patil-group).
 
 - ☄️ Developing metagenomics + genome-scale metabolic modeling approaches for microbiome research
