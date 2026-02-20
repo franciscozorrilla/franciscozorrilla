@@ -10,5 +10,3 @@ Biological engineer-turned computational biologist researching microbial communi
 - ⚙️ In descending order of preference, I enjoy coding in bash, R, python, and MATLAB
 - 📦 Writing workflows in Snakemake and deploying them on high performance computing clusters
 - 👽 PhD with [Kiran Patil's group](https://www.mrc-tox.cam.ac.uk/research/research-groups/patil-group) @ the MRC Toxicology Unit, University of Cambridge
-
-[![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscozorrilla)](https://github.com/anuraghazra/github-readme-stats)
