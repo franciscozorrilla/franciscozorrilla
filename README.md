@@ -6,7 +6,7 @@
 
 Biological engineer-turned computational biologist researching microbial community metabolism in the [Sunagawa Lab](https://micro.biol.ethz.ch/research/sunagawa.html).
 
-- ☄️ Developing metagenomics + genome-scale metabolic modeling approaches for microbiome research
+- ☄️ Applying metagenomics, genome-scale metabolic modeling, protein strucutre, and machine learning approaches for microbiome research
 - ⚙️ In descending order of preference, I enjoy coding in bash, R, python, and MATLAB
 - 📦 Writing workflows in Snakemake and deploying them on high performance computing clusters
 - 👽 PhD with [Kiran Patil's group](https://www.mrc-tox.cam.ac.uk/research/research-groups/patil-group) @ the MRC Toxicology Unit, University of Cambridge
